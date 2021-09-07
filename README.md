@@ -1,7 +1,11 @@
+
 - 👋 Hi, I’m @vizz21
 - 👀 I’m interested in Tech and basically everything related to programming!
 
-https://media.giphy.com/media/TjAcxImn74uoDYVxFl/giphy.gif
+VAMOS 
+
+![giphy](https://user-images.githubusercontent.com/90259834/132358702-e68afafd-230f-4afc-92a3-47b5224942db.gif)
+
 
 
 <!---
