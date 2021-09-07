@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @vizz21
 - 👀 I’m interested in Tech and basically everything related to programming!
 
+https://media.giphy.com/media/TjAcxImn74uoDYVxFl/giphy.gif
 
 
 <!---
